@@ -1,0 +1,18 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "generate addon",
+  "main": "test.js",
+  "dependencies": {
+    "bindings": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-gyp rebuild"
+  },
+  "keywords": [],
+  "author": "dashuaige",
+  "license": "ISC",
+  "gypfile": true
+}
