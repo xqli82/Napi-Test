@@ -1,0 +1,21 @@
+{
+  "name": "Napi-Test",
+  "version": "1.0.0",
+  "description": "linux system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push":"git add . && git commit -m 'more' && git push -u origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xqli82/Napi-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xqli82/Napi-Test/issues"
+  },
+  "homepage": "https://github.com/xqli82/Napi-Test#readme"
+}
